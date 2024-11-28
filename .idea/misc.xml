@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/product-service/product-service/pom.xml" />
+        <option value="$PROJECT_DIR$/user-service/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../discovery-server/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../api-gateway/apiGate-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../security/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../security/user-registration/pom.xml" />
+        <option value="$PROJECT_DIR$/category/Category-service/pom.xml" />
+        <option value="$PROJECT_DIR$/feingclient/feingclient-service/pom.xml" />
+        <option value="$PROJECT_DIR$/category/Category-service/Category-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

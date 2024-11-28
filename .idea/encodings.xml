@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../api-gateway/apiGate-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../discovery-server/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/category/Category-service/Category-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/category/Category-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feingclient/feingclient-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-service/product-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../security/user-registration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../security/user-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>
